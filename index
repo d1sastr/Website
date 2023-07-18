@@ -15,7 +15,7 @@
     <body>
         <h1>Red Robin</h1>
         <h2>Hero. Detective. Coffee Addict.</h2>
-        <img src="./images/redrobin" height="150">
+        <img src="https://i.pinimg.com/736x/38/3d/1c/383d1ca6c8490b8b3184102f5526d2cc.jpg" height="150">
         <hr>
         <h2><em>Just the world's best young detective working to protect Gotham.</em></h2>
         <hr>
@@ -62,11 +62,12 @@
         </address>
         <!-- Social Logos. Bottom two from httpsgetdrawings.com/pixelated-icons -->
         <hr>
-        <a href="https://dc.fandom.com/wiki/Red_Robin_Vol_1"><img src="./img/Fandom.svg" height="50" alt="GitHub"></a>
+        <a href="https://dc.fandom.com/wiki/Red_Robin_Vol_1"><img src="https://th.bing.com/th/id/OIP.z_EyCWJJFVvmC8FWDM4dzAAAAA?pid=ImgDet&rs=1" height="50" alt="GitHub"></a>
         <a rev="Subdocument" href="https://www.linkedin.com/company/redrobinburgers/"><img src="https://w4.rner.me/index_files/linkedin.png" height="50" alt="LinkedIn"></a>
-        <a href="https://www.facebook.com/Redrobiners/"><img src="./img/facebook-logo" height="50" alt="My fan club"></a>
+        <a href="https://www.facebook.com/Redrobiners/"><img src="https://th.bing.com/th/id/R.531d8020eec497c76989552f1760d816?rik=UxHWB6Hq%2f1JnLw&pid=ImgRaw&r=0" height="50" alt="My fan club"></a>
         <hr>
         <h3>How about we don't tell Red Robin I was here, ok? Wouldn't want him to know I hijacked his site. That would be... unfortunate for everyone involved...</h3>
+        <i>-The Joker</i>
         <hr>
         <br>
         <small> 
