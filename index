@@ -15,7 +15,7 @@
     <body>
         <h1>Red Robin</h1>
         <h2>Hero. Detective. Coffee Addict.</h2>
-        <img src="./images/redrobin.jpeg" height="150">
+        <img src="./images/redrobin" height="150">
         <hr>
         <h2><em>Just the world's best young detective working to protect Gotham.</em></h2>
         <hr>
@@ -62,9 +62,11 @@
         </address>
         <!-- Social Logos. Bottom two from httpsgetdrawings.com/pixelated-icons -->
         <hr>
-        <a href="https://github.com/"><img src="https://w4.rner.me/index_files/github.png" height="50" alt="GitHub"></a>
-        <a rev="Subdocument" href="https://linkedin.com/in/"><img src="https://w4.rner.me/index_files/linkedin.png" height="50" alt="LinkedIn"></a>
-        <a href="https://www.fediverse.to/"><img src="https://w4.rner.me/index_files/fediverse.png" height="50" alt="Fediverse"></a>
+        <a href="https://dc.fandom.com/wiki/Red_Robin_Vol_1"><img src="./img/Fandom.svg" height="50" alt="GitHub"></a>
+        <a rev="Subdocument" href="https://www.linkedin.com/company/redrobinburgers/"><img src="https://w4.rner.me/index_files/linkedin.png" height="50" alt="LinkedIn"></a>
+        <a href="https://www.facebook.com/Redrobiners/"><img src="./img/facebook-logo" height="50" alt="My fan club"></a>
+        <hr>
+        <h3>How about we don't tell Red Robin I was here, ok? Wouldn't want him to know I hijacked his site. That would be... unfortunate for everyone involved...</h3>
         <hr>
         <br>
         <small> 
