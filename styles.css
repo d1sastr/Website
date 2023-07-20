@@ -1,1 +1,18 @@
+#mainbox {
+background-color: #838383;
 
+}
+
+@font-face{
+font-family: komika;
+  src: url(KOKIMAX_.ttf);
+}
+
+@font-face{
+font-family: kablam;
+  src: url(Ka Blam.ttf);
+}
+
+h1 {
+font-family: "kablam", sans-serif;
+}
