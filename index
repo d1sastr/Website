@@ -14,13 +14,14 @@
         </style>
     </head>
     <body>
+    <div id="mainbox">
         <h1>Red Robin</h1>
         <h2>Hero. Detective. Coffee Addict.</h2>
         <img src="./img/redrobin.jpg" height="180">
         <hr>
         <h2><em>Just the world's best young detective working to protect Gotham.</em></h2>
         <hr>
-        <h2>
+    </div>
         <ul>
             <li><a href="https://www.redrobin.com/">If you were looking for the restaraunt.</a></li>
             <li><a href="https://www.allaboutbirds.org/guide/American_Robin/id">...or if you were looking for the bird.</a></li>
