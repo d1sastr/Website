@@ -15,7 +15,7 @@
     <body>
         <h1>Red Robin</h1>
         <h2>Hero. Detective. Coffee Addict.</h2>
-        <img src="https://i.pinimg.com/736x/38/3d/1c/383d1ca6c8490b8b3184102f5526d2cc.jpg" height="180">
+        <img src="./img/redrobin.jpg" height="180">
         <hr>
         <h2><em>Just the world's best young detective working to protect Gotham.</em></h2>
         <hr>
@@ -62,9 +62,9 @@
         </address>
         <!-- Social Logos. Bottom two from httpsgetdrawings.com/pixelated-icons -->
         <hr>
-        <a href="https://dc.fandom.com/wiki/Red_Robin_Vol_1"><img src="https://th.bing.com/th/id/OIP.z_EyCWJJFVvmC8FWDM4dzAAAAA?pid=ImgDet&rs=1" height="50" alt="GitHub"></a>
+        <a href="https://dc.fandom.com/wiki/Red_Robin_Vol_1"><img src="./img/Fandom.svg.png" height="50" alt="Fandom"></a>
         <a rev="Subdocument" href="https://www.linkedin.com/company/redrobinburgers/"><img src="https://w4.rner.me/index_files/linkedin.png" height="50" alt="LinkedIn"></a>
-        <a href="https://www.facebook.com/Redrobiners/"><img src="https://th.bing.com/th/id/R.531d8020eec497c76989552f1760d816?rik=UxHWB6Hq%2f1JnLw&pid=ImgRaw&r=0" height="50" alt="My fan club"></a>
+        <a href="https://www.facebook.com/Redrobiners/"><img src="./img/facebook-logo.jpg" height="50" alt="My fan club"></a>
         <hr>
         <h3>How about we don't tell Red Robin I was here, ok? Wouldn't want him to know I hijacked his site and doxxed him. That would be... unfortunate for everyone involved...</h3>
         <i>-The Joker</i>
@@ -73,7 +73,7 @@
         <small> 
         <!-- small print: change modified date,  -->
         Last modified: Mon Jul 18 02:45:00 pm 2023
-            <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="/">this website</a> © 202X is based on w4rner's <a
+            <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="/">this website</a> © 2023 is based on w4rner's <a
                 href="http://w4.rner.me/ninety-five.html">
                 'Ninety Five' template</a> after <a href="http://www.geom.uiuc.edu/~munzner/">Tamara Munzner's</a> and therefore is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
             <i> "Nanos Gigantum Humeris Insidentes" </i>
