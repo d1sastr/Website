@@ -1,18 +1,19 @@
-#mainbox {
-background-color: #838383;
-
-}
-
-@font-face{
-font-family: komika;
-  src: url("./KOKIMAX_.ttf");
-}
-
-@font-face{
-font-family: kablam;
-  src: url("./Ka Blam.ttf");
-}
-
-h1 {
-font-family: "kablam", sans-serif;
-}
+html {
+         display: flex;
+         align: center;}
+     body{
+          background-color: black;
+          color: white;}
+            @font-face{
+                font-family: "komika";
+                src: url(komika.ttf) format("truetype");}
+            @font-face{
+                font-family: "kablam";
+                src: url(kablam.ttf) format("truetype");}
+     #mainbox {
+           background-color: #838383;
+           border-radius: 30%;
+           text-align: center;}
+     h1 {
+    font-family: "kablam", "fantasy";
+    color: #ffff90;}
