@@ -1,3 +1,3 @@
 function popup(){
-alert("This website is designed for desktop!");
+alert("This website is ideally viewed on desktop!");
 }
