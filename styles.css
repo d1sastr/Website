@@ -37,7 +37,7 @@ height:100%;}
 		   }
 		  
      h1 {
-    font-family: "kablam", impact, fantasy;
+    font-family: "kablam", impact, sans-serif;
     color: #ffd500;
 	-webkit-text-stroke: 1px black;
 	font-size: 3em;
@@ -65,7 +65,7 @@ height:100%;}
 		padding: 10px;
 		background-color: #FFEF00;
 		color: black;
-		font-family: "kablam", impact, fantasy;
+		font-family: "kablam", impact, sans-serif;
 		text-align: center;
 		border-width: 5px;
 		border-color: #F2F2F2;
@@ -246,7 +246,7 @@ margin:auto;}
   }
 
   .contacttext{
-	font-family: impact, fantasy;
+	font-family: impact, sans-serif;
 	display:flex;
 	justify-content:center;
   }
