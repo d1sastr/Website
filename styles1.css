@@ -41,6 +41,13 @@ Lamp effect supported by Chrome and Safari, but not Firefox. Spotlight effect su
     justify-content: center;
   }
 
+iframe{
+    border-color:black;
+    border-left-width: 60px;
+    border-right-width: 60px;
+    z-index: 5;
+  }
+
 .batoutline{display:block;
 	margin-left: auto;
 	margin-right: auto;
